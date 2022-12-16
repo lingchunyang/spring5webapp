@@ -14,6 +14,8 @@ public class Book {
     private String title;
     private String isbn;
 
+    private String test;
+
     public Set<Author> authors;
 
     public Book() {};
